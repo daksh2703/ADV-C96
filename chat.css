@@ -1,0 +1,53 @@
+.logo
+{
+	width: 250px; height:250px; margin-top: 30px;border-radius: 40px;
+}
+#logo2 {
+  width:80px;
+  height:60px;
+}
+.login_div {
+color:beige;
+border-radius: 20px;
+}
+#logout
+{
+	font-size: 20px; float: right;
+}
+body{
+  background: rgb(160,41,240);
+  color:beige;
+  background: linear-gradient(90deg, rgba(160,41,240,1) 0%, rgba(208,30,202,1) 14%, rgba(233,40,108,1) 35%, rgba(253,29,29,1) 50%, rgba(252,93,50,1) 76%, rgba(252,176,69,1) 100%);
+}
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	width: 50%; 
+	margin-bottom:15px;
+	margin-top:10px;
+}
+.color_white
+{
+	color: white
+}
+
+.user_tick
+{
+	width:20px;
+}
+.message_h4
+{
+	padding-left:5px;
+}
